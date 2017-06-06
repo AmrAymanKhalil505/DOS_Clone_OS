@@ -1,0 +1,25 @@
+Booting from Floppy...
+testwaKERNEL
+             shell
+                  messag
+                         tstprg
+                                tstpr2
+                                       testwa
+
+
+
+
+
+
+
+
+
+
+                                              no such fileKERNEL
+                                                                    
+                        messag                         tstprg
+         tstpr2                         testwa
+
+
+
+                                                                         ß
